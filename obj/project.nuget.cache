@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e3taAS02KjY=",
+  "dgSpecHash": "1Xp7fcXcGkY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jgen6\\louieproj\\louieproj.csproj",
+  "projectFilePath": "C:\\inetpub\\myportfolio\\louieproj.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jgen6\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
+    "C:\\Users\\jgen6\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.6\\microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512"
   ],
   "logs": []
 }

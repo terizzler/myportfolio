@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jgen6\\louieproj\\louieproj.csproj": {}
+    "C:\\inetpub\\myportfolio\\louieproj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jgen6\\louieproj\\louieproj.csproj": {
+    "C:\\inetpub\\myportfolio\\louieproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jgen6\\louieproj\\louieproj.csproj",
+        "projectUniqueName": "C:\\inetpub\\myportfolio\\louieproj.csproj",
         "projectName": "louieproj",
-        "projectPath": "C:\\Users\\jgen6\\louieproj\\louieproj.csproj",
+        "projectPath": "C:\\inetpub\\myportfolio\\louieproj.csproj",
         "packagesPath": "C:\\Users\\jgen6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jgen6\\louieproj\\obj\\",
+        "outputPath": "C:\\inetpub\\myportfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jgen6\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,7 +47,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.5, )",
+              "version": "[10.0.6, )",
               "autoReferenced": true
             }
           },
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
